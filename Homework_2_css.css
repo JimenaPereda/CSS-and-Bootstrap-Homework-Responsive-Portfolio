@@ -8,9 +8,10 @@
 }
 .nav-link{
     margin-top: 8px;
-    color: black;
+    color: rgb(2, 38, 48);
     background-color: rgb(255, 255, 255);
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif, bold;
+    
 }
 .container{
   padding-left: 230px;
