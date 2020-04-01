@@ -1,0 +1,45 @@
+ body{
+     background:url(https://media.giphy.com/media/l46CdS8jeYrq884py/source.gif)
+ }
+ 
+ .topnav {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: small;
+}
+.nav-link{
+    margin-top: 8px;
+    color: black;
+    background-color:rgb(238, 15, 171);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+footer{
+    margin-top: 30px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+
+  .mb-4{
+      padding-left: 200px;
+      color: white;
+      text-align: center;
+  }
+  
+  h2{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding-right: 250px;
+  }
+
+ #hey {
+     background-color: black;
+    color: white;
+    font-family: 'Permanent Marker';
+    padding-right: 250px;
+    
+  }
