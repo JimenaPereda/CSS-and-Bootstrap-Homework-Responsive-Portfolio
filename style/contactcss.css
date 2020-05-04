@@ -1,0 +1,46 @@
+ body{
+    
+ }
+ 
+ .topnav {
+    background-color: rgb(118, 221, 247);
+    text-align: center;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: small;
+}
+.nav-link{
+    margin-top: 8px;
+    color: white;
+    background-color: rgb(118, 221, 247);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+footer{
+    margin-top: 30px;
+    background-color:rgb(118, 221, 247);
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+
+  .mb-4{
+      background: rgb(243, 146, 202);
+      padding-left: 200px;
+      color: white;
+      text-align: center;
+  }
+  
+  h2{
+    
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding-right: 250px;
+  }
+
+ #hey {
+     
+    color: white;
+    font-family: 'Permanent Marker';
+    padding-right: 250px;
+    
+  }

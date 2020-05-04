@@ -1,0 +1,37 @@
+
+   .topnav {
+    background-color: rgb(241, 170, 206);
+    text-align: center;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+.nav-link{
+    margin-top: 8px;
+    color: rgb(2, 38, 48);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat Alternates', sans-serif, bold;
+    
+}
+.container{
+  padding-left: 230px;
+  margin-top: 30px;
+}
+h1{
+    margin: 0;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+ }
+ .main-card {
+     text-align: center;
+     
+ }
+ img{
+   align-self: center;
+ }
+footer{
+  margin-top: 30px;
+  background-color: rgb(241, 170, 206);
+  text-align: center;
+  color: black;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
